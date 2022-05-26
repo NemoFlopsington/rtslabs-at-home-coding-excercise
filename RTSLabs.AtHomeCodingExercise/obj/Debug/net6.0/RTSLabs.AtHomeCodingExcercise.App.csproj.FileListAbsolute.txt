@@ -1,0 +1,15 @@
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.csproj.AssemblyReference.cache
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.AssemblyInfoInputs.cache
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.AssemblyInfo.cs
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.csproj.CoreCompileInputs.cache
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\bin\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.exe
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\bin\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.deps.json
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\bin\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.runtimeconfig.json
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\bin\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.dll
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\bin\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.pdb
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.dll
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\refint\RTSLabs.AtHomeCodingExcercise.App.dll
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.pdb
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\RTSLabs.AtHomeCodingExcercise.App.genruntimeconfig.cache
+C:\Users\Nehemiah D\source\repos\RTSLabs.AtHomeCodingExercise\RTSLabs.AtHomeCodingExercise\obj\Debug\net6.0\ref\RTSLabs.AtHomeCodingExcercise.App.dll
